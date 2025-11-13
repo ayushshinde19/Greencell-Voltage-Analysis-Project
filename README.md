@@ -38,7 +38,7 @@ The following chart illustrates the raw data alongside the two calculated moving
 
 ### **Voltage Time-Series Analysis**
 
-![Voltage Analysis Chart](voltage_analysis.jpg)
+![Voltage Analysis Chart](https://github.com/ayushshinde19/Greencell-Voltage-Analysis-Project/blob/main/voltage_analysis.png)
 
 ## 📁 Repository Contents
 
@@ -56,11 +56,24 @@ The following chart illustrates the raw data alongside the two calculated moving
 
 To replicate this analysis:
 
+## 🛠️ How to Run the Code
+
+To replicate this analysis:
+
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_REPOSITORY_NAME]
+    git clone [https://github.com/YourUsername/Greencell-Voltage-Analysis-Project.git](https://github.com/YourUsername/Greencell-Voltage-Analysis-Project.git)
+    cd Greencell-Voltage-Analysis-Project
     ```
+    *(Remember to change 'YourUsername' and 'Greencell-Voltage-Analysis-Project' to your actual GitHub username and repository name.)*
+
+2.  **Install Dependencies:**
+    The project requires common Python data science libraries:
+    ```bash
+    pip install pandas matplotlib numpy
+    ```
+3.  **Execute the Notebook:**
+    Open the **`Python_implementation.ipynb`** file in Jupyter or an IDE that supports Jupyter Notebooks (like VS Code) and run all cells. The execution will generate the chart and the dashboard files locally.
 2.  **Install Dependencies:**
     The project requires common Python data science libraries:
     ```bash
