@@ -36,7 +36,7 @@ The following chart illustrates the raw data alongside the two calculated moving
 
 ### **Voltage Time-Series Analysis**
 
-![Voltage Analysis Chart](https://github.com/ayushshinde19/Greencell-Voltage-Analysis-Project/blob/main/voltage_analysis.png)
+![Voltage Analysis Chart](https://github.com/ayushshinde19/Greencell-Voltage-Analysis-Project/blob/main/Screenshot%202025-11-20%20101109.png)
 
 ## 📁 Repository Contents
 
